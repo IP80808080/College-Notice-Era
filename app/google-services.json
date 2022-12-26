@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852431342132",
+    "project_id": "digital-college-board",
+    "storage_bucket": "digital-college-board.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852431342132:android:662030273d769ec1e65861",
+        "android_client_info": {
+          "package_name": "com.example.digitalnoticeboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852431342132-u5rm4mhn55rvj25c9ar3s1eas0vakutl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf0s6zPefVLSs1MtXm_3loLdg-ubZQdME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852431342132-u5rm4mhn55rvj25c9ar3s1eas0vakutl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

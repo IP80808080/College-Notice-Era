@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Digital Notice Board</string>
+    <string name="department">Digital Notice Board</string>
+
+
+    <string-array name="department">
+        <item> Select the Department </item>
+        <item> Computer Science and Engineering</item>
+        <item> Information Technology</item>
+        <item> Electrical</item>
+        <item> Electronics</item>
+        <item> Mechanical</item>
+
+    </string-array>
+</resources>
